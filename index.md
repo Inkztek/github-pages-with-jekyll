@@ -1,3 +1,2 @@
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+My primary focus as a Backend Developer is to develop the server-side logic as well as the development and maintenance of the central database, ensuring high responsiveness and performance to requests from the frontend. Am also responsible for the integration of frontend elements built by the frontend teams, hence, requiring that he have a basic understanding of frontend technologies. The Backend Developer must be highly skilled at developing Application Program Interface (APIs).
